@@ -12,3 +12,5 @@ Imports:
     fs
 Suggests: 
     rstudioapi
+URL: https://github.com/arcresu/devnews
+BugReports: https://github.com/arcresu/devnews/issues
